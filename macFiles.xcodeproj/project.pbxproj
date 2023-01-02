@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		A9DEE5322962237000379F83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9DEE5312962237000379F83 /* Assets.xcassets */; };
 		A9DEE5352962237000379F83 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9DEE5342962237000379F83 /* Preview Assets.xcassets */; };
-		A9DEE53D2962245C00379F83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DEE53C2962245C00379F83 /* ContentView.swift */; };
 		A9DEE53F2962246300379F83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DEE53E2962246300379F83 /* ContentView.swift */; };
 		A9DEE5482962249400379F83 /* counter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DEE5402962249400379F83 /* counter.swift */; };
 		A9DEE5492962249400379F83 /* MacDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DEE5412962249400379F83 /* MacDetailView.swift */; };
@@ -25,7 +24,6 @@
 		A9DEE5312962237000379F83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9DEE5342962237000379F83 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A9DEE5362962237000379F83 /* macFiles.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macFiles.entitlements; sourceTree = "<group>"; };
-		A9DEE53C2962245C00379F83 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = "../macFiles-OLD/macFiles/ContentView.swift"; sourceTree = "<group>"; };
 		A9DEE53E2962246300379F83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = "../../macFiles-OLD/macFiles/ContentView.swift"; sourceTree = "<group>"; };
 		A9DEE5402962249400379F83 /* counter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = counter.swift; sourceTree = "<group>"; };
 		A9DEE5412962249400379F83 /* MacDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MacDetailView.swift; sourceTree = "<group>"; };
@@ -51,7 +49,6 @@
 			isa = PBXGroup;
 			children = (
 				A9DEE52C2962236F00379F83 /* macFiles */,
-				A9DEE53C2962245C00379F83 /* ContentView.swift */,
 				A9DEE52B2962236F00379F83 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -167,7 +164,6 @@
 				A9DEE54C2962249400379F83 /* FileData.swift in Sources */,
 				A9DEE54F2962249400379F83 /* MenuView.swift in Sources */,
 				A9DEE53F2962246300379F83 /* ContentView.swift in Sources */,
-				A9DEE53D2962245C00379F83 /* ContentView.swift in Sources */,
 				A9DEE5492962249400379F83 /* MacDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
